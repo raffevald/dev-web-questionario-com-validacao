@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+}
+
+.body{
+    align-items: center;
+    display: flex;
+    align-items: center;
+}
+
+.main-container {
+    margin: auto;
+    width: 1200px;
+}
+
+.titulo {
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.usuario-dados {
+    margin-bottom: 15px;
+}
+
+.usuario-dados input {
+    width: 350px;
+    padding: 7px;
+    margin-left: 5px;
+    display: block;
+}
+
+/*
+.input-user-dados {
+    text-align: left;
+    border-bottom: 1px solid;
+} */
+
+.perguntas-container {
+    margin-bottom: 10px;
+}
